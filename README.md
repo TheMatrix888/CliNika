@@ -1,6 +1,6 @@
 # CliNika
 
-**CliNika** is a smart automation script for a vet clinic.  
+**CliNika** is a smart automation script for a Russian vet clinic.  
 It cross-checks daily financial reports (in Excel format), detects errors, calculates salaries based on custom formula, and tracks inventory changes — all in one tool.
 
 ## 🔧 Features
@@ -16,13 +16,13 @@ It cross-checks daily financial reports (in Excel format), detects errors, calcu
 The script expects:
 
 - Daily reports:
-    -WIP
+    - WIP
 
 - Monthly master report:  
-  -WIP
+  - WIP
 
 - Inventory data:  
-  -WIP
+  - WIP
 
 ## 📤 Output
 
@@ -31,7 +31,8 @@ The script expects:
   - Salary breakdown for each employee
   - Updated inventory levels
 
-- Example output: WIP
+- Example output:
+  - WIP
 
 ## 📦 Used Libraries
 
